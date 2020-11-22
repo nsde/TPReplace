@@ -1,5 +1,2 @@
-def test():
-    x = 1
-    return x
-x = test()
-print(x)
+import os
+print(os.listdir(r"C:\Users\xitzf\Desktop\blocks"))
